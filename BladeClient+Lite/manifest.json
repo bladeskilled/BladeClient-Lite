@@ -1,0 +1,28 @@
+{
+  "minecraft": {
+    "version": "1.8.9",
+    "modLoaders": [
+      {
+        "id": "forge-11.15.1.2318",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "BladeClient Lite",
+  "author": "Forge_User_17820861",
+  "files": [
+    {
+      "projectID": 229876,
+      "fileID": 2271480,
+      "required": true
+    },
+    {
+      "projectID": 251739,
+      "fileID": 2415786,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
